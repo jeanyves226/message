@@ -46,7 +46,6 @@ INSTALLED_APPS = [
     'allauth.account',
     'allauth.socialaccount',
     "template_partials",
-    'anchor',
     'reversion',
     'ninja',
     'corsheaders',
